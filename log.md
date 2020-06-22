@@ -1,13 +1,12 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: June 22, 2020 (Example 1)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed Bacis CSS @ Freecode Academy (https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/)
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Good review new most of this due to CodeAcamy membershio
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** (http://www.exahttps://www.freecodecamp.org/learnmple.com)
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
